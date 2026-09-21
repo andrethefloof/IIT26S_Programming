@@ -1,0 +1,5 @@
+first_word = input("Insert first word: ")
+second_word = input("Insert second word: ")
+print("1st word is" , len(first_word), "characters long")
+print("2nd word is" , len(second_word), "characters long")
+print("Words together makes one close compound" , '\'' + first_word + second_word + '\'')

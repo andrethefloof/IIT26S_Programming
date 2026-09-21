@@ -10,5 +10,5 @@ A1_T7 = int(input("A1_T7: "))
 print(" ")
 minutes_spent = A1_T1 + A1_T2 + A1_T3 + A1_T4 + A1_T5 + A1_T6 + A1_T7
 print("In total you spent", minutes_spent, "minutes on programming.")
-print("Average per task is", round(minutes_spent / 7, 2), "min and same rounded to nearest integer is", round(minutes_spent / 7), "min.")
+print("Average per task was", round(minutes_spent / 7, 2), "min and same rounded to nearest integer", round(minutes_spent / 7), "min.")
 print("Program ending.")

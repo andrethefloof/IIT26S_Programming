@@ -19,4 +19,5 @@ def analyseWords(words):
     print(f"- {len(word_list)} Words")
     print(f"- {sum(len(word) for word in word_list)} Characters")
     print("- {:.2f} Average word length".format(Avg))
+    print ("Program ending.")
 main()

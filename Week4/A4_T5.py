@@ -16,5 +16,5 @@ else:
     for i in range(int(starting_point), int(stopping_point)):
         if i == int(inspection_point):
             continue
-        print(f"{i}", end=" " if int(starting_point) < int(stopping_point) else "\n")
+        print(f"{i}", end="" if int(starting_point) < int(stopping_point) else "\n")
 print("\nProgram ending.")

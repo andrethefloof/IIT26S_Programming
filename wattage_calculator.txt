@@ -1,0 +1,9 @@
+Wattage Calculator Log
+Current 0 A, Voltage 0 V, Wattage 0 W, Resistance 0 Ohms
+Current 35.0 A, Voltage 20.0 V, Wattage 700.0 W, Resistance 0.5714285714285714 Ohms
+Current N/A A, Voltage N/A V, Wattage 35.0 W, Resistance N/A Ohms
+Current 54.0 A, Voltage 23.0 V, Wattage 1242.0 W, Resistance 0.42592592592592593 Ohms
+Wattage Calculator Log
+Current 3.0 A, Voltage 2.0 V, Wattage 6.0 W, Resistance 0.6666666666666666 Ohms
+Wattage Calculator Log
+Current 25.0 A, Voltage 15.0 V, Wattage 375.0 W, Resistance 0.6 Ohms
